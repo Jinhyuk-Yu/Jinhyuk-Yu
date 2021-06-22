@@ -1,0 +1,4 @@
+# MS Thesis Description
+Name: Implementation of path tracking algorithms and trajectory optimization based on the extended Kalman filter
+Experiments: Simulation the ackermann bicycle steering based vehicle on the planned path created by spline math code at MATLAB. 
+Compare the result between when the filter is adjusted and is not adjusted.
